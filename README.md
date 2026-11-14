@@ -23,9 +23,9 @@ Rebuilt from my own plan, without looking at v1:
 
 ## How to run
 python debt_tracker_v2.py
-
+python debt_tracker_v1.py
 ## What I learned
-Classes and __init__, guards with early return, try/except,
+Classes and __init__, I guards with early return, try/except,
 loops with break, and calling my own methods with self.
 
 ## Next
