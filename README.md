@@ -22,11 +22,16 @@ Rebuilt from my own plan, without looking at v1:
 - Prints the summary once at the end
 
 ## How to run
-python debt_tracker_v2.py
+v1 (runs fixed test values):
+```
 python debt_tracker_v1.py
+```
+v2 (asks you for the name, amount and payments):
+```
+python debt_tracker_v2.py
+```
 ## What I learned
-Classes and __init__, I guards with early return, try/except,
-loops with break, and calling my own methods with self.
+Classes and `__init__`, guard's with early return, try/except, loops with break, and calling my own methods with self.d
 
 ## Next
 Let the user quit early and show the debt as still OWING.
